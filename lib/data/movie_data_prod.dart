@@ -4,7 +4,7 @@ import 'movie_data.dart';
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
 
-const MOVIE_API_KEY = "e5c7041343c9969c537ddc8b720e80c7";
+const MOVIE_API_KEY = "e5c7041343c99***********20e80c7";
 const BASE_URL = "https://api.themoviedb.org/3/movie/";
 
 class MovieProdRepository implements MovieRepository {
